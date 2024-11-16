@@ -6,17 +6,17 @@
   
 <h3 align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AliAhmad238&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="center">
-    <a href="https://github.com/Saqlain143"> 
+    <a href="https://github.com/AliAhmad238"> 
   <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
     </a>
 </p>
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliAhmad238&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AliAhmad238&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 #
 
@@ -25,26 +25,26 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p> -->
 
-[![LeetCode user saqlainabid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/saqlainabid/)
+[![LeetCode user AliAhmad](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/AliAhmad/)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/Saqlain143.svg)](https://user-badge.committers.top/pakistan/Saqlain143)
+[![committers.top badge](https://user-badge.committers.top/pakistan/AliAhmad238.svg)](https://user-badge.committers.top/pakistan/AliAhmad238)
 
-- 🔭 I’m currently working on **LeetCode & Python Development**
+- 🔭 I’m currently working on **LeetCode & Backend Development**
 
 - 🌱 I’m currently learning **Flutter, Flask, Django**
 
-- 💬 Ask me about **Python, LeetCode, AI/ML**
+- 💬 Ask me about **Laravel, LeetCode, AI/ML**
 
-- 📫 How to reach me **saqlainabid143@gmail.com**
+- 📫 How to reach me **mattarii78@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
 # Let's Connect and have a Chat! 💬 
 <p align="center">
-<a href="https://github.com/Saqlain143" target="_blank">
+<a href="https://github.com/AliAhmad238" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/saqlainabid143" target="_blank">
+<a href="https://linkedin.com/in/ali-ahmad-3458a3242" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
@@ -53,7 +53,7 @@
 <a href="https://wa.me/923328833129" target="_blank">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://discordapp.com/users/saqlainabid" target="_blank">
+<a href="https://discordapp.com/users/" target="_blank">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/saqlainabid/" target="_blank">
@@ -105,14 +105,14 @@
 
 # GitHub Stats📈:
 <p align="center">
-    <a href="https://github.com/Saqlain143">
+    <a href="https://github.com/AliAhmad238">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saqlain143&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
  <p align="center">
-   <a href="https://github.com/Saqlain143"> 
+   <a href="https://github.com/AliAhmad238"> 
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saqlain143&theme=algolia&hide_border=true" /> 
    </a>  
  </p 
@@ -176,7 +176,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/Saqlain143" target="_blank">
+<a href="https://github.com/AliAhmad238" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -184,8 +184,8 @@
 
 <br>
 <p align="center">
-<a href="https://www.buymeacoffee.com/saqlainabid143"> 
- <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqlainabid143" /></a>
+<a href="https://www.buymeacoffee.com/AliAhmad238"> 
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AliAhmad238" /></a>
 </p>
 
 <h3 align="center">
