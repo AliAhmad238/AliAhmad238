@@ -106,7 +106,7 @@
 # GitHub Stats📈:
 <p align="center">
     <a href="https://github.com/AliAhmad238">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AliAhmad238&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliAhmad238&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
@@ -115,7 +115,7 @@
    <a href="https://github.com/AliAhmad238"> 
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAhmad238&theme=algolia&hide_border=true" /> 
    </a>  
- </p 
+ </p
 
 #
 
